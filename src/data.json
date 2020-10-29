@@ -1,0 +1,60 @@
+{
+	"details":[
+	{
+		"card":{
+			"resume":"SOFTWARE RESUME",
+			"img":"ImgProfileVk1.jpg",
+			"name":"K.S.Vinod Kumar",
+			"rollno":"18G01A0445",
+			"email":"ksvinodkumar111@gmail.com",
+			"mobile":"955317XXXX",
+			"address":"Shop Street, Puttur, Chittoor,Andhra Pradesh-517583",
+			"careerobjective":"Experienced and knowledgeable software engineer with extensive practice in technology engineering and computer science looking to obtain a position that allows for the application of design skills, customer service and support abilities and critical thinking to produce software that meets all goals and objectives outlined by the customer.",
+			 
+			"institute1":"Sri Venkatesa Perumal College of Engineering and Technology",
+			"degree1":"B.Tech,ECE",
+			"passoutyear1":"2022",
+			"percentage1":"80%",
+			"institute2":"Sri Sai Jyothi Junior College",
+			"degree2":"Intermediate",
+			"passoutyear2":"2018",
+			"percentage2":"92.7%",
+			"institute3":"Jnana Jyothi vidya mandir School",
+			"degree3":"SSC",
+			"passoutyear3":"2016",
+			"percentage3":"90%",
+    		"Programminglanguages":["C","Python","Java","Javascript"],
+    		"Technologies":["Artificial Intelligence","Machine Learning","Data Science","Automation"],
+   			"declaration":"I am here by to declare that above mention details is true with best of my knowledge."
+		}
+	},
+	{
+		"card":{
+			"resume":"HARDWARE RESUME",
+			"img":"ImgProfileVk1.jpg",
+			"name":"K.S.VINOD KUMAR",
+			"rollno":"18G01A0445",
+			"email":"ksvinodkumar111@gmail.com",
+			"mobile":"955317XXXX",
+			"address":"Shop Street, Puttur, Chittoor,Andhra Pradesh-517583",
+			"careerobjective":"Experienced and knowledgeable Hardware engineer with extensive practice in technology engineering and Electronics looking to obtain a position that allows for the application of design Hardware, customer service and support abilities and critical thinking to produce hardware that meets all goals and objectives outlined by the customer.",
+			"institute1":"Sri Venkatesa Perumal College of Engineering and Technology",
+			"degree1":"B.Tech,ECE",
+			"passoutyear1":"2022",
+			"percentage1":"80%",
+			"institute2":"Sri Sai Jyothi Junior College",
+			"degree2":"Intermediate",
+			"passoutyear2":"2018",
+			"percentage2":"92.7%",
+			"institute3":"Jnana Jyothi vidya mandir School",
+			"degree3":"SSC",
+			"passoutyear3":"2016",
+			"percentage3":"90%",
+    		"Programminglanguages":["Matlab","VLSI","Ardiuno","Embedded C"],
+    		"Technologies":["Artificial Intelligence","Machine Learning","PCB Design","LI-FI"],
+   			"declaration":"I am here by to declare that above mention details is true with best of my knowledge."
+		
+	}
+}
+]
+}
